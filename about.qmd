@@ -2,4 +2,16 @@
 title: "About"
 ---
 
-About this site
+# The Michigan Alzheimer's Disease Center
+
+Established at Michigan Medicine and based in the Department of Neurology, the Michigan Alzheimer’s Disease Center aims to:    
+    * Conduct and support research on Alzheimer’s disease and related dementias    
+    * Promote state-of-the-art care and wellness for individuals and families affected by memory loss    
+    * Increase dementia awareness through collaborative education and outreach efforts    
+    * Work to address racial and ethnic disparities in Alzheimer’s disease and related dementias    
+    * Provide training and support to the next generation of clinicians and scientists    
+
+* unordered list
+    + sub-item 1
+    + sub-item 2
+        - sub-sub-item 1

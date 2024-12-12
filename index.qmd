@@ -1,7 +1,9 @@
 ---
-title: "quarto-site-test"
+title: "MADC Data Core Sharing Hub"
 ---
 
-This is a Quarto website.
+<img src="assets/images/madrc-logo-dark-text.png" style='width:300px;'>
 
-To learn more about Quarto websites visit <https://quarto.org/docs/websites>.
+Lorem ipsum odor amet, consectetuer adipiscing elit. Litora lectus nisi malesuada montes efficitur faucibus euismod. Dui integer aliquet varius vehicula primis sem egestas semper libero. Habitant et neque posuere litora sagittis facilisi bibendum pretium penatibus. Molestie quisque sociosqu mus sed gravida fringilla elementum. Cubilia mus etiam penatibus pellentesque elit orci. Pretium eget sollicitudin sapien rutrum potenti fames.
+
+Ante integer class aliquam vel ridiculus elementum rutrum potenti est. Donec libero class suscipit a donec vehicula tristique. Eget integer nisl ligula euismod tempus facilisi ad. Ipsum pharetra tempor; bibendum vestibulum faucibus convallis. Sollicitudin risus lectus nibh tortor nullam sed. Porta litora nibh nascetur mauris in elit parturient. Pellentesque montes vehicula arcu vulputate mollis, tellus curae lectus. Egestas torquent proin blandit suspendisse massa pretium leo.
